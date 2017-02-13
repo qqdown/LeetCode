@@ -12,7 +12,7 @@ namespace _165
 		int compareVersion(string version1, string version2) {
 			vector<int> v1 = getVersions(version1);
 			vector<int> v2 = getVersions(version2);
-			int i = 0;
+			size_t i = 0;
 			while (i < v1.size() && i < v2.size())
 			{
 				if (v1[i] > v2[i])
@@ -32,7 +32,7 @@ namespace _165
 		vector<int> getVersions(string version)
 		{
 			vector<int> versions;
-			int i = 0, j = 0;
+			size_t i = 0, j = 0;
 			for (; i < version.size(); i++) {
 				if (version[i] == '.') {
 					versions.push_back(atoi(version.substr(j, i - j).c_str()));
