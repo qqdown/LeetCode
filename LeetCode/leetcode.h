@@ -20,3 +20,16 @@ struct TreeNode {
 	TreeNode *right;
 	TreeNode(int x) : val(x), left(NULL), right(NULL) {}
 };
+
+void printVector(vector<int>& vec) {
+	for (int i = 0; i < vec.size(); i++) {
+		cout << vec[i] << " ";
+	}
+	cout << endl;
+}
+
+void printVector(vector<vector<int>>& vec) {
+	for (int i = 0; i < vec.size(); i++) {
+		printVector(vec[i]);
+	}
+}

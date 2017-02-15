@@ -150,6 +150,10 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="1.h" />
+    <ClInclude Include="10.h" />
+    <ClInclude Include="11.h" />
+    <ClInclude Include="14.h" />
+    <ClInclude Include="15.h" />
     <ClInclude Include="165.h" />
     <ClInclude Include="2.h" />
     <ClInclude Include="3.h" />
@@ -159,6 +163,9 @@
     <ClInclude Include="513.h" />
     <ClInclude Include="515.h" />
     <ClInclude Include="6.h" />
+    <ClInclude Include="7.h" />
+    <ClInclude Include="8.h" />
+    <ClInclude Include="9.h" />
     <ClInclude Include="leetcode.h" />
     <ClInclude Include="problems.h" />
     <ClInclude Include="5.h" />
