@@ -83,5 +83,35 @@
     <ClInclude Include="15.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="16.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="17.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="18.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="24.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="496.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="506.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="503.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="500.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="508.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="502.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
