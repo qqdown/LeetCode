@@ -3,8 +3,8 @@
 
 int main()
 {
-	_502::Solution sol;
-	int arr[] = {1,2,3};
+	_20::Solution sol;
+	int arr[] = {1};
 	int arr2[] = {0,1,1};
 	string arrstr[] = { "Hello", "Alaska", "Dad", "Peace" };
 	vector<int> vec(arr,arr+ sizeof(arr)/sizeof(int));
@@ -12,7 +12,7 @@ int main()
 	vector<string> vecstr(arrstr, arrstr + 4);
 	ListNode* head = createList(vec);
 	TreeNode* tree = createTree(vec);
-	auto result = sol.findMaximizedCapital(2,0,vec, vec2);
+	auto result = sol.isValid("([)]");
 	printResult( result);
 	
 	getchar();

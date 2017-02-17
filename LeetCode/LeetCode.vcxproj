@@ -158,7 +158,9 @@
     <ClInclude Include="165.h" />
     <ClInclude Include="17.h" />
     <ClInclude Include="18.h" />
+    <ClInclude Include="19.h" />
     <ClInclude Include="2.h" />
+    <ClInclude Include="20.h" />
     <ClInclude Include="24.h" />
     <ClInclude Include="3.h" />
     <ClInclude Include="306.h" />

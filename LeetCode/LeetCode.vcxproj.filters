@@ -113,5 +113,11 @@
     <ClInclude Include="502.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="19.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="20.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

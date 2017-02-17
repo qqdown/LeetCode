@@ -3,6 +3,7 @@
 #include <sstream>
 #include <vector>
 #include <queue>
+#include <stack>
 #include <string>
 #include <algorithm>
 #include <unordered_set>

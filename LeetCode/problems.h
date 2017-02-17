@@ -16,6 +16,8 @@
 #include "16.h"
 #include "17.h"
 #include "18.h"
+#include "19.h"
+#include "20.h"
 #include "24.h"
 #include "165.h"
 #include "306.h"
