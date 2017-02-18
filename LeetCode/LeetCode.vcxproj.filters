@@ -119,5 +119,20 @@
     <ClInclude Include="20.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="392.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="393.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="394.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="395.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="307.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
