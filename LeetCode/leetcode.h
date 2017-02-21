@@ -90,9 +90,11 @@ void printResult(vector<vector<int>>& vec) {
 		printResult(vec[i]);
 	}
 }
-void printResult(vector<string>& vec) {
+void printResult(vector<string>& vec, bool multiLine = false) {
 	for (int i = 0; i < vec.size(); i++) {
 		cout << vec[i] << " ";
+		if (multiLine)
+			cout << endl;
 	}
 	cout << endl;
 }
