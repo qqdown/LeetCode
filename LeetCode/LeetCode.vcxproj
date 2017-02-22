@@ -171,6 +171,10 @@
     <ClInclude Include="3.h" />
     <ClInclude Include="306.h" />
     <ClInclude Include="307.h" />
+    <ClInclude Include="31.h" />
+    <ClInclude Include="35.h" />
+    <ClInclude Include="36.h" />
+    <ClInclude Include="37.h" />
     <ClInclude Include="392.h" />
     <ClInclude Include="393.h" />
     <ClInclude Include="394.h" />
@@ -190,8 +194,10 @@
     <ClInclude Include="525.h" />
     <ClInclude Include="526.h" />
     <ClInclude Include="6.h" />
+    <ClInclude Include="68.h" />
     <ClInclude Include="7.h" />
     <ClInclude Include="8.h" />
+    <ClInclude Include="87.h" />
     <ClInclude Include="9.h" />
     <ClInclude Include="leetcode.h" />
     <ClInclude Include="problems.h" />

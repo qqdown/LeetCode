@@ -164,5 +164,23 @@
     <ClInclude Include="27.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="68.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="31.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="87.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="35.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="36.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="37.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
