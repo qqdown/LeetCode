@@ -155,6 +155,7 @@
     <ClInclude Include="14.h" />
     <ClInclude Include="15.h" />
     <ClInclude Include="16.h" />
+    <ClInclude Include="160.h" />
     <ClInclude Include="165.h" />
     <ClInclude Include="17.h" />
     <ClInclude Include="18.h" />
@@ -190,6 +191,7 @@
     <ClInclude Include="503.h" />
     <ClInclude Include="506.h" />
     <ClInclude Include="508.h" />
+    <ClInclude Include="51.h" />
     <ClInclude Include="513.h" />
     <ClInclude Include="515.h" />
     <ClInclude Include="517.h" />

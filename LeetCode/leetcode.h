@@ -104,7 +104,6 @@ void printResult(vector<vector<char>>& vec) {
 	}
 }
 
-
 void printResult(vector<string>& vec, bool multiLine = false) {
 	for (int i = 0; i < vec.size(); i++) {
 		cout << vec[i] << " ";
@@ -112,6 +111,12 @@ void printResult(vector<string>& vec, bool multiLine = false) {
 			cout << endl;
 	}
 	cout << endl;
+}
+
+void printResult(vector<vector<string>>& vec) {
+	for (int i = 0; i < vec.size(); i++) {
+		printResult(vec[i], true);
+	}
 }
 
 void printResult(ListNode* head) {

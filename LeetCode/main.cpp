@@ -3,7 +3,7 @@
 
 int main()
 {
-	_524::Solution sol;
+	_51::Solution sol;
 	int arr[] = {23,2,6,4,7};
 	int arr2[] = {2,4,6,8,10};
 	int arr3[] = { 12,14,16,18,110 };
@@ -28,7 +28,7 @@ int main()
 	}
 
 	
-	auto result = sol.findLongestWord("abpcplea", vecstr);
+	auto result = sol.solveNQueens(8);
 	printResult(result);
 	
 	getchar();
